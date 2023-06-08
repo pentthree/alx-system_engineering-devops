@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo cp school.mgc /usr/share/misc/
+0 string SCHOOL School data
+!:mime School 
