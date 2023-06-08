@@ -1,2 +1,2 @@
 #!/bin/bash
-file -m school.mgc my_school_data_file
+sudo cp school.mgc /usr/share/misc/
