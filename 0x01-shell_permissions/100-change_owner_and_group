@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -fR vincent:staff
+chgrp -R vincent:staff
